@@ -30,3 +30,4 @@ print("d:",d)
 <img width="392" height="356" alt="image" src="https://github.com/user-attachments/assets/b068c938-ff9a-419a-9cfe-90fbdbb71fb3" />
 
 ## Result
+thus,a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False` is  excuted.
